@@ -9,3 +9,9 @@
 **Julia数据科学应用**：*https://weread.qq.com/web/reader/b0a32af0715a4182b0aa94c*
 
 **Julia语言程序设计**：*https://weread.qq.com/web/reader/b6f3229071650d97b6f5385*
+
+**Julia编程基础**：*https://github.com/hyper0x/JuliaBasics*
+
+网站;
+- *https://m.w3cschool.cn/julia/*
+- 
